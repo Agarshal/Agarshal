@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Agarshal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Agarshal</h1>
 <h3 align="center">🚀 Deep Learning Enthusiast | Python Lover 🐍</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px" alt="Coding gif"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -45,4 +49,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" alt="AI gif"/>
+</p>
+
 🔥 Thanks for visiting my profile! Let's connect and build something amazing together 🚀
+
