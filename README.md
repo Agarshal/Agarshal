@@ -42,10 +42,12 @@
 
 ---
 
-### 🐍 Contribution Snake  
+### ✨ Fun Quote  
 <p align="center">
-  <img src="https://github.com/Agarshal/Agarshal/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" alt="AI gif"/>
